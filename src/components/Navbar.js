@@ -49,7 +49,7 @@ export default function Navbar() {
                             logo ?
                                 logo.map((i, index) => (
                                     <div key={index}>
-                                        <Link to="/">
+                                        <Link to="/gonoise">
                                             <img className='m-auto' style={{ width: "122px", height: "auto" }} src={i.NavbarLogo ? i.NavbarLogo : ""} alt="loading .." />
                                         </Link> </div>
                                 ))
