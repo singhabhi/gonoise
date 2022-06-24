@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gonoise/static/css/main.7468f406.css",
+    "main.js": "/gonoise/static/js/main.1e9139ed.js",
+    "static/css/641.528cc4db.chunk.css": "/gonoise/static/css/641.528cc4db.chunk.css",
+    "static/js/641.02a11df0.chunk.js": "/gonoise/static/js/641.02a11df0.chunk.js",
+    "static/js/787.14236765.chunk.js": "/gonoise/static/js/787.14236765.chunk.js",
+    "static/js/94.c080de2e.chunk.js": "/gonoise/static/js/94.c080de2e.chunk.js",
+    "static/media/revicons.eot": "/gonoise/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/gonoise/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/gonoise/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/gonoise/index.html",
+    "main.7468f406.css.map": "/gonoise/static/css/main.7468f406.css.map",
+    "main.1e9139ed.js.map": "/gonoise/static/js/main.1e9139ed.js.map",
+    "641.528cc4db.chunk.css.map": "/gonoise/static/css/641.528cc4db.chunk.css.map",
+    "641.02a11df0.chunk.js.map": "/gonoise/static/js/641.02a11df0.chunk.js.map",
+    "787.14236765.chunk.js.map": "/gonoise/static/js/787.14236765.chunk.js.map",
+    "94.c080de2e.chunk.js.map": "/gonoise/static/js/94.c080de2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7468f406.css",
+    "static/js/main.1e9139ed.js"
+  ]
+}
